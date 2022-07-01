@@ -1,5 +1,3 @@
-# FOOBAR
-
 # <p align="center">Burly</p>
 <hr>
 
