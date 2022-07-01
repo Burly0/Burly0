@@ -11,7 +11,5 @@
 - 📧 echo "ZGlldWplc3Vzb3VpQGdtYWlsLmNvbQo=" | base64 -d
 
 # Or here
-<a href="https://tryhackme.com/p/Attila21"><img src="https://github.com/Burly0/Burly0/blob/0b52e05f9f2baf4117d3d7d883b386d761fd4350/Attila21.png" alt="TryHackMe">
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/Attila21.png" alt="TryHackMe">
 
