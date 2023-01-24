@@ -2,7 +2,6 @@
 <hr>
 
 # Sup Guys !
-- ☀ I'm just an IT guy the d4y
 - ༼ つ ◕_◕ ༽つ Sometime i do some pentest 
 
 # You can reach me here !
